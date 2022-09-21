@@ -1,8 +1,8 @@
 .DS_Store
 node_modules/
 
-vue-cli/dist
-vue-form/dist
+# vue-cli/dist
+# vue-form/dist
 
 # local env files
 .env.local
